@@ -1,0 +1,136 @@
+body{
+   background-color:#FBF9F1;
+   background: linear-gradient(to left,#B4D4FF,#7BD3EA )
+}
+
+.rubik-burned-regular {
+    font-family: "Rubik Burned", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color:#0766AD;
+    font-size: 100px;
+    margin-top: 30px;
+    text-align: center;
+  }
+.p1{
+    margin: 20px;
+    color:#176B87 ;
+    font-size:30px ;
+   text-align: center;
+}
+.div1{
+background-color:#EFEFEF;
+
+margin: 50px;
+
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+}
+hr{
+height: 5px;
+border:1px solid black;
+ border-radius: 15%;
+background : linear-gradient(to left,#52D3D8,#4942E4);
+
+   
+ 
+    
+}
+
+#secondimage{
+    border-radius: 20% ;
+}
+table th,td{
+    border: 5px solid ;
+    border-radius: 10px;
+    border-color: aqua;
+    border-style: groove;
+}
+.globalwarming{
+color: #F49D1A;
+font-family: "Rubik Burned", system-ui;
+font-size: 100px;
+}
+
+.pglobalwarming{
+color:#F79327 ;
+font-size:30px ;
+   text-align: center;
+   MARGIN: 20PX;
+}
+.imgglobal{
+    border-radius: 10%;
+}
+.globalwarmingdiv{
+    background-color: #FBF9F1;
+    margin: 50px;
+}
+.pla{
+    font-family: "Rubik Burned", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color:#BA704F;
+    font-size: 100px;
+    margin-top: 30px;
+    text-align: center;
+}
+.ppla{
+    margin: 20px;
+    color:#DFA878 ;
+    font-size:30px ;
+   text-align: center;
+} 
+.capimg{
+    border-radius: 20%;
+    display: block;
+    
+}
+.coap{
+    margin: 50px;
+    background-color: #FFFFEC;
+}
+.eoap{
+    font-family: "Rubik Burned", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color:#BF3131;
+    font-size: 100px;
+    margin-top: 30px;
+    text-align: center;
+}
+.div5{
+    background-color: #FFFBEB
+    ;
+    margin: 50px;
+}
+.hc{
+    font-size:30px ;
+   text-align: center;
+   color: #EEC759;
+   MARGIN: 20PX;
+}
+.lastheader{
+    height: 5px;
+border:1px solid black;
+ border-radius: 15%;
+background : linear-gradient(to left,#F8DE22    ,#F94C10);
+}
+.pimg{
+    border-radius: 20%;
+}
+.lastform{
+   display: block;
+   text-align: center;
+   color: #0766AD;
+font-size: 50px;
+}
+.tajmahal{
+    display: block;
+    text-align: center;
+    color: #0766AD;
+ font-size: 40px;
+}
+
